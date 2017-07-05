@@ -1,0 +1,6 @@
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Magic_Letter\bin\Debug\Magic_Letter.exe.config
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Magic_Letter\bin\Debug\Magic_Letter.exe
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Magic_Letter\bin\Debug\Magic_Letter.pdb
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Magic_Letter\obj\Debug\Magic_Letter.csprojResolveAssemblyReference.cache
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Magic_Letter\obj\Debug\Magic_Letter.exe
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Magic_Letter\obj\Debug\Magic_Letter.pdb

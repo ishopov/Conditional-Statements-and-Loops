@@ -1,0 +1,6 @@
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Hotel_Second_Try\bin\Debug\Hotel_Second_Try.exe.config
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Hotel_Second_Try\bin\Debug\Hotel_Second_Try.exe
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Hotel_Second_Try\bin\Debug\Hotel_Second_Try.pdb
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Hotel_Second_Try\obj\Debug\Hotel_Second_Try.csprojResolveAssemblyReference.cache
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Hotel_Second_Try\obj\Debug\Hotel_Second_Try.exe
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Hotel_Second_Try\obj\Debug\Hotel_Second_Try.pdb

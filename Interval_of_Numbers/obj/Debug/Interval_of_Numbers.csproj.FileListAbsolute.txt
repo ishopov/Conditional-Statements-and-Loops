@@ -1,0 +1,5 @@
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Interval_of_Numbers\bin\Debug\Interval_of_Numbers.exe.config
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Interval_of_Numbers\bin\Debug\Interval_of_Numbers.exe
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Interval_of_Numbers\bin\Debug\Interval_of_Numbers.pdb
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Interval_of_Numbers\obj\Debug\Interval_of_Numbers.exe
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Interval_of_Numbers\obj\Debug\Interval_of_Numbers.pdb

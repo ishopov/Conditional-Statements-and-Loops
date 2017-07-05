@@ -1,0 +1,6 @@
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Neighbour_Wars\bin\Debug\Neighbour_Wars.exe.config
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Neighbour_Wars\bin\Debug\Neighbour_Wars.exe
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Neighbour_Wars\bin\Debug\Neighbour_Wars.pdb
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Neighbour_Wars\obj\Debug\Neighbour_Wars.csprojResolveAssemblyReference.cache
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Neighbour_Wars\obj\Debug\Neighbour_Wars.exe
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Neighbour_Wars\obj\Debug\Neighbour_Wars.pdb
