@@ -1,0 +1,6 @@
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Count_the_Integers\bin\Debug\Count_the_Integers.exe.config
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Count_the_Integers\obj\Debug\Count_the_Integers.csprojResolveAssemblyReference.cache
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Count_the_Integers\bin\Debug\Count_the_Integers.exe
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Count_the_Integers\bin\Debug\Count_the_Integers.pdb
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Count_the_Integers\obj\Debug\Count_the_Integers.exe
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Count_the_Integers\obj\Debug\Count_the_Integers.pdb
