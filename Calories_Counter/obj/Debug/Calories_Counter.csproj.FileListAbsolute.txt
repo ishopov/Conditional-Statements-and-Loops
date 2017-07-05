@@ -1,0 +1,5 @@
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Calories_Counter\bin\Debug\Calories_Counter.exe.config
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Calories_Counter\bin\Debug\Calories_Counter.exe
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Calories_Counter\bin\Debug\Calories_Counter.pdb
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Calories_Counter\obj\Debug\Calories_Counter.exe
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Calories_Counter\obj\Debug\Calories_Counter.pdb

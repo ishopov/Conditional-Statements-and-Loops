@@ -1,0 +1,5 @@
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Cake_Ingredients\bin\Debug\Cake_Ingredients.exe.config
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Cake_Ingredients\bin\Debug\Cake_Ingredients.exe
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Cake_Ingredients\bin\Debug\Cake_Ingredients.pdb
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Cake_Ingredients\obj\Debug\Cake_Ingredients.exe
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Cake_Ingredients\obj\Debug\Cake_Ingredients.pdb

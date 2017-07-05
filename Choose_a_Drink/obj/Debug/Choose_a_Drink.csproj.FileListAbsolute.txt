@@ -1,0 +1,6 @@
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Choose_a_Drink\bin\Debug\Choose_a_Drink.exe.config
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Choose_a_Drink\bin\Debug\Choose_a_Drink.exe
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Choose_a_Drink\bin\Debug\Choose_a_Drink.pdb
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Choose_a_Drink\obj\Debug\Choose_a_Drink.csprojResolveAssemblyReference.cache
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Choose_a_Drink\obj\Debug\Choose_a_Drink.exe
+D:\SoftUni\02. Fundamentals\06. C# Conditional Statements and Loops - Exercises\Judge\Choose_a_Drink\obj\Debug\Choose_a_Drink.pdb
